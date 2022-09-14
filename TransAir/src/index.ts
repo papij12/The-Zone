@@ -1,4 +1,4 @@
-//import { localDataSource } from "./data/localDataSource";
+
 import { RemoteDataSource } from "./Outside/remoteDataSource";
 import { HTMLDisplay } from "./htmlDisplay";
 import "bootstrap/dist/css/bootstrap.css";
